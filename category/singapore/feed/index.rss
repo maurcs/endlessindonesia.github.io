@@ -1,0 +1,54 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Singapore &#8211; Endless Indonesia</title>
+	<atom:link href="http://www.endlessindonesia.com/category/singapore/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.endlessindonesia.com</link>
+	<description>Will Sanders' Indonesia Adventure</description>
+	<lastBuildDate>Sun, 17 May 2009 11:22:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+	<item>
+		<title>Last weekend in Tretes</title>
+		<link>http://www.endlessindonesia.com/2009/05/13/last-weekend-in-tretes/</link>
+				<comments>http://www.endlessindonesia.com/2009/05/13/last-weekend-in-tretes/#comments</comments>
+				<pubDate>Tue, 12 May 2009 17:24:22 +0000</pubDate>
+		<dc:creator><![CDATA[Will Sanders]]></dc:creator>
+				<category><![CDATA[Indonesia]]></category>
+		<category><![CDATA[Singapore]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Willosophy]]></category>
+
+		<guid isPermaLink="false">http://www.endlessindonesia.com/?p=61</guid>
+				<description><![CDATA[Chapter one I am sitting at on an open air balcony which wraps around the rear of the hotel Lie mas and over a sheer cliff, valley below. The trees are lush and appear bushy like the dog across the street who never gets love and is left alone all day every day, the trees [&#8230;]]]></description>
+						<wfw:commentRss>http://www.endlessindonesia.com/2009/05/13/last-weekend-in-tretes/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+							</item>
+		<item>
+		<title>The Singapore Connection</title>
+		<link>http://www.endlessindonesia.com/2009/04/18/the-singapore-connection/</link>
+				<comments>http://www.endlessindonesia.com/2009/04/18/the-singapore-connection/#comments</comments>
+				<pubDate>Fri, 17 Apr 2009 22:46:07 +0000</pubDate>
+		<dc:creator><![CDATA[Will Sanders]]></dc:creator>
+				<category><![CDATA[Singapore]]></category>
+		<category><![CDATA[Travel]]></category>
+
+		<guid isPermaLink="false">http://www.endlessindonesia.com/?p=10</guid>
+				<description><![CDATA[A lot of things have happened since last Wednesday at 4:30 AM. Babies have aged into siniority and died from Natural causes since last Wednesday at 4:30 AM. Empires have risen and fallen since last Wednesday at 4:30 AM. I have flown a million miles since last Wednesday at 4:30 AM. At 4:30 AM last [&#8230;]]]></description>
+						<wfw:commentRss>http://www.endlessindonesia.com/2009/04/18/the-singapore-connection/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+							</item>
+	</channel>
+</rss>

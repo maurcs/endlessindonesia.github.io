@@ -1,0 +1,64 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bummer &#8211; Endless Indonesia</title>
+	<atom:link href="http://www.endlessindonesia.com/category/bummer/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.endlessindonesia.com</link>
+	<description>Will Sanders' Indonesia Adventure</description>
+	<lastBuildDate>Mon, 08 Nov 2010 03:45:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.2</generator>
+	<item>
+		<title>The fucking Professor</title>
+		<link>http://www.endlessindonesia.com/2010/11/08/the-fucking-professor/</link>
+				<comments>http://www.endlessindonesia.com/2010/11/08/the-fucking-professor/#comments</comments>
+				<pubDate>Mon, 08 Nov 2010 03:45:22 +0000</pubDate>
+		<dc:creator><![CDATA[Will Sanders]]></dc:creator>
+				<category><![CDATA[Bummer]]></category>
+		<category><![CDATA[tough going]]></category>
+
+		<guid isPermaLink="false">http://www.endlessindonesia.com/?p=261</guid>
+				<description><![CDATA[Don&#8217;t worry Professor, I won&#8217;t get all sloppy.  I just want to tell a bunch of people who already know how amazing you are.     Nicknames frequently come and they go, usually just as fast.  I knew a guy named Tick because he liked that comic in highschool so stuck with it he was for about [&#8230;]]]></description>
+						<wfw:commentRss>http://www.endlessindonesia.com/2010/11/08/the-fucking-professor/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+		<item>
+		<title>So long Luke Devine</title>
+		<link>http://www.endlessindonesia.com/2010/02/26/so-long-luke-devine/</link>
+				<comments>http://www.endlessindonesia.com/2010/02/26/so-long-luke-devine/#comments</comments>
+				<pubDate>Fri, 26 Feb 2010 09:17:46 +0000</pubDate>
+		<dc:creator><![CDATA[Will Sanders]]></dc:creator>
+				<category><![CDATA[Bummer]]></category>
+
+		<guid isPermaLink="false">http://www.endlessindonesia.com/?p=207</guid>
+				<description><![CDATA[I&#8217;m not stupid, I know the dead don&#8217;t read internet blogs, so few of the living do either, but Luke man, this ones for you. Luke Devine Man, what a cool guy. Luke Divine is the rare sort of human being that if you are lucky enough to meet you instantly hope to become close [&#8230;]]]></description>
+						<wfw:commentRss>http://www.endlessindonesia.com/2010/02/26/so-long-luke-devine/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+							</item>
+		<item>
+		<title>Bali by bike part three:   a Slippery Slope</title>
+		<link>http://www.endlessindonesia.com/2009/10/09/bali-by-bike-part-three-a-slippery-slope/</link>
+				<comments>http://www.endlessindonesia.com/2009/10/09/bali-by-bike-part-three-a-slippery-slope/#comments</comments>
+				<pubDate>Thu, 08 Oct 2009 20:30:22 +0000</pubDate>
+		<dc:creator><![CDATA[Will Sanders]]></dc:creator>
+				<category><![CDATA[Bummer]]></category>
+
+		<guid isPermaLink="false">http://www.endlessindonesia.com/?p=160</guid>
+				<description><![CDATA[We now have us a nice map, thanks be to Marcus.  Here it is: http://maps.google.com/maps/ms?ie=UTF8&#038;hl=en&#038;msa=0&#038;msid=116807996117912663230.00047af831e35b38ceb64&#038;t=h&#038;z=9 At the bottom of Ijen Luke, Tabby and Allen and I had to part ways.  different vacations in different directions, I had to stay true onward, they were taking the same way out they had come in on.  A guy [&#8230;]]]></description>
+						<wfw:commentRss>http://www.endlessindonesia.com/2009/10/09/bali-by-bike-part-three-a-slippery-slope/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+							</item>
+	</channel>
+</rss>
